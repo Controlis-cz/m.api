@@ -1,0 +1,19 @@
+License Agreement
+
+Copyright © [2025] [Controlis Solutions, s.r.o.]
+
+Permission is granted to any person obtaining a copy of this software (the “Software”) to download and use the Software solely for personal or internal business purposes.
+
+The following are expressly prohibited without prior written consent from the copyright holder:
+
+Redistribution, publication, or sublicensing of the Software, in whole or in part.
+
+Modification, adaptation, translation, or creation of derivative works.
+
+Forking or copying this repository.
+
+Use of the Software in any way that makes it available to third parties.
+
+Submission of contributions or pull requests to this repository.
+
+The Software is provided “AS IS”, without warranty of any kind, express or implied. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from use of the Software.
