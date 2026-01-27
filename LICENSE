@@ -2,18 +2,20 @@ License Agreement
 
 Copyright © [2025] [Controlis Solutions, s.r.o.]
 
-Permission is granted to any person obtaining a copy of this software (the “Software”) to download and use the Software solely for personal or internal business purposes.
+Permission is granted to any company having purchased the m.API license (https://www.controlis.cz/software/vlastni-nastroje/m-api) to download and use this Software solely for internal business purposes.
 
 The following are expressly prohibited without prior written consent from the copyright holder:
 
-Redistribution, publication, or sublicensing of the Software, in whole or in part.
+Copy, modify, or create derivative works of the software, in whole or in part.
 
-Modification, adaptation, translation, or creation of derivative works.
+Rent, lend, sell, sublicense, transfer, distribute, or otherwise make the software available to third parties.
+
+Reverse engineer, disassemble, decompile, decode, modify, or otherwise attempt to obtain the source code of the software, in whole or in part.
+
+Remove any copyright or other proprietary notices from the software.
+
+Use the software in any way or for any purpose that infringes the intellectual property or other rights of any person, or that violates applicable laws.
 
 Forking or copying this repository.
 
-Use of the Software in any way that makes it available to third parties.
-
 Submission of contributions or pull requests to this repository.
-
-The Software is provided “AS IS”, without warranty of any kind, express or implied. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from use of the Software.
