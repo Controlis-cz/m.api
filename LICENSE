@@ -1,21 +1,24 @@
 License Agreement
 
-Copyright © [2025] [Controlis Solutions, s.r.o.]
+Copyright © 2025-2026 Controlis Solutions, s.r.o.
 
-Permission is granted to any company having purchased the m.API license (https://www.controlis.cz/software/vlastni-nastroje/m-api) to download and use this Software solely for internal business purposes.
+This software is proprietary and confidential.
 
-The following are expressly prohibited without prior written consent from the copyright holder:
+A non-exclusive, non-transferable license to download and use this Software for internal business purposes only is granted solely to companies that have purchased a valid m.API commercial license from Controlis Solutions, s.r.o. (https://www.controlis.cz/software/vlastni-nastroje/m-api).
 
-Copy, modify, or create derivative works of the software, in whole or in part.
+No rights are granted to any other party.
 
-Rent, lend, sell, sublicense, transfer, distribute, or otherwise make the software available to third parties.
+Source Code Visibility
+The source code is made available on GitHub for reference purposes only. 
+Public visibility, viewing, cloning, or forking of this repository does not grant any license or right to use, modify, distribute, deploy, or create derivative works of the Software except as expressly permitted under a valid commercial agreement with Controlis Solutions, s.r.o.
 
-Reverse engineer, disassemble, decompile, decode, modify, or otherwise attempt to obtain the source code of the software, in whole or in part.
+Restrictions
+Without prior written consent from the copyright holder, the following are prohibited:
 
-Remove any copyright or other proprietary notices from the software.
+• Copying, modifying, or creating derivative works of the Software, in whole or in part, except as permitted under a valid commercial license.  
+• Renting, lending, selling, sublicensing, transferring, distributing, or otherwise making the Software available to third parties.  
+• Reverse engineering, disassembling, decompiling, decoding, or otherwise attempting to obtain or reconstruct the source code, except where such restriction is prohibited by applicable law.  
+• Removing or altering any copyright or proprietary notices.  
+• Using the Software in any manner that infringes intellectual property rights or violates applicable law.  
 
-Use the software in any way or for any purpose that infringes the intellectual property or other rights of any person, or that violates applicable laws.
-
-Forking or copying this repository.
-
-Submission of contributions or pull requests to this repository.
+All rights not expressly granted are reserved by Controlis Solutions, s.r.o.
